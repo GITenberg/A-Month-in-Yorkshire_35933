@@ -1,0 +1,27 @@
+_repo: A-Month-in-Yorkshire_35933
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: White, Walter
+    birthdate: 1811
+    deathdate: 1893
+    gutenberg_agent_id: '37992'
+    url: http://www.gutenberg.org/2009/agents/37992
+description: ''
+gutenberg_issued: '2011-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35933'
+  lccn: 03008637
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Yorkshire (England) -- Description and travel'
+title: A Month in Yorkshire
+url: http://www.gutenberg.org/ebooks/35933
